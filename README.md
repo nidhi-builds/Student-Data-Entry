@@ -26,4 +26,4 @@ Each functionality uses two custom exceptions:
 - `Main.java`: Program entry point
 
 ## 🔗 GitHub Repository
-[GitHub Link](https://github.com/your-username/StudentDataEntry)
+[GitHub Link](https://github.com/nidhi-buildse/Student-Data-Entry)
